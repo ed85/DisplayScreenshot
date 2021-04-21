@@ -2,7 +2,7 @@
 Java Screenshot
 
 # Describe:
-I'm not the one who can find a new fire. Code below would you find probably somewhere else. Probably could be better described and coded, but...There is no restrictions to reuse this code.In this sense, feel free to make this code usable...
+I'm not the one who made a new fire finder. Code below you would probably find somewhere else. Probably could be better described and coded, but... There are no restrictions to reuse this code. With this in mind, feel free to make this code usable...
 
 Best Regards!
 @en85
@@ -10,7 +10,7 @@ Best Regards!
 
 # Screenshot CLASS
 
-To test this code you must create "img" folder with file "flysea-com.jpg" for background.
-Beside "screenshot" class, you can Download the "img" file to see proper image in JFrame.
+To test this code, you need to create the "img" folder with the "flysea-com.jpg" file as background.
+Besides the "screenshot" class, you can download the "img" file to see the correct image in the JFrame.
 
-It is actually not important whether you Download the File in included or create a yours, important is to place the folder in Relative path.
+It doesn't really matter if you download the file or create your own, what matters is that you place the folder in the relative path.
